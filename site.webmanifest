@@ -1,0 +1,21 @@
+{
+  "name": "Aadi Future Systems",
+  "short_name": "Aadi Future",
+  "description": "Massage Chair & Wellness Products Supplier | Pune",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/fevicon-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/fevicon-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
