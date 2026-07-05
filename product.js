@@ -71,12 +71,6 @@ const products = {
       ],
       other: [
         {
-          image: "New_product_img/Kansya_ThaliFootMassage.jpg",
-          subtitle: "Foot Massager",
-          title: "Kansya Thali Foot Massage Machine",
-          link: "kansya-thali-foot-massage-machine-supplier.html"
-        },
-        {
           image: "New_product_img/Kansya_2WatiFoot.jpg",
           subtitle: "Foot Massager",
           title: "Kansya 2 Wati Foot Massager",
